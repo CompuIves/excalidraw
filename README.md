@@ -14,6 +14,10 @@
   <p>Ask questions or hang out on our <a target="_blank" href="https://discord.gg/UexuTaE">discord.gg/UexuTaE</a>.</p>
 </div>
 
+```js
+1 + 2;
+```
+
 ## Try it now
 
 Go to [excalidraw.com](https://excalidraw.com) to start sketching.
