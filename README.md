@@ -16,6 +16,10 @@
 
 ## Try it now
 
+```js
+1 + 1;
+```
+
 Go to [excalidraw.com](https://excalidraw.com) to start sketching.
 
 Read the latest news and updates on our [blog](https://blog.excalidraw.com). A good start is to see all the updates of [One Year of Excalidraw](https://blog.excalidraw.com/one-year-of-excalidraw/).
