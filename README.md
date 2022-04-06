@@ -20,6 +20,12 @@ Go to [excalidraw.com](https://excalidraw.com) to start sketching.
 
 Read the latest news and updates on our [blog](https://blog.excalidraw.com). A good start is to see all the updates of [One Year of Excalidraw](https://blog.excalidraw.com/one-year-of-excalidraw/).
 
+## Getting Started
+
+To run Excalidraw, you can run `yarn start`. This will open [http://localhost:3000](http://localhost:3000) where you can play with Excalidraw.
+
+We recommend to start out in [excalidraw-app/index.tsx](./src/components/App.tsx:466-476).
+
 ## Supporting Excalidraw
 
 If you like the project, you can become a sponsor at [Open Collective](https://opencollective.com/excalidraw).
